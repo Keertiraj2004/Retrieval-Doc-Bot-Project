@@ -139,3 +139,4 @@ This project is developed for educational and portfolio purposes.
 **Keertiraj Kamble**  
 B.E. Artificial Intelligence & Data Science  
 AI/ML Enthusiast | RAG | Generative AI | Data Science
+LinkedIn: https://linkedin.com/in/keertiraj-kamble
