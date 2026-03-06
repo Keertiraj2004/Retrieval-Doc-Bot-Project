@@ -58,7 +58,7 @@ Below is the interface of the RetrievalDocBot RAG chatbot built using Streamlit.
 
 The application allows users to upload PDF documents and ask questions about the content using an AI-powered retrieval system.
 
-![RAG Chatbot Interface](images/rag-ui.png)
+![RAG Chatbot Interface](images)
 
 ---
 ## 🎥 Project Demo
