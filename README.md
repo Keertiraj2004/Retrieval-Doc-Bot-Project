@@ -52,7 +52,22 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 8. Model generates an accurate answer based only on provided context.
 
 ---
+## 📸 Application Interface
 
+Below is the interface of the RetrievalDocBot RAG chatbot built using Streamlit.
+
+The application allows users to upload PDF documents and ask questions about the content using an AI-powered retrieval system.
+
+![RAG Chatbot Interface](images/rag-ui.png)
+
+---
+## 🎥 Project Demo
+
+Watch the screen recording of the RAG chatbot in action.
+
+[▶ Download and Watch Demo](demo/rag-demo.mp4)
+
+---
 ## 🛠 Installation & Setup
 
 ### 1️⃣ Clone Repository
