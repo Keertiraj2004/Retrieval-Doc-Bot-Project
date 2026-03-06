@@ -6,8 +6,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
-from streamlit_js_eval import streamlit_js_eval
-import json
 from config import OPENAI_API_KEY
 
 # -----------------------------
