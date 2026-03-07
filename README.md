@@ -118,7 +118,7 @@ streamlit run app.py
 - Upload PDFs  
 - Ask questions  
 - Get AI-generated answers  
-- Download chat history  
+- Download chat history
 
 ---
 
