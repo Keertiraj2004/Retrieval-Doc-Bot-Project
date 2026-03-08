@@ -6,7 +6,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intellig
 
 ## 🚀 Project Overview
 
-RetrievalDocBot allows users to upload multiple PDF files and ask context-aware questions.  
+RetrievalDocBot allows users to upload multiple PDF files and ask context-aware questions.
 The system retrieves relevant document chunks using vector similarity search and generates accurate answers strictly based on the uploaded content.
 
 This project demonstrates the implementation of an end-to-end RAG pipeline using LangChain, OpenAI, and FAISS.
