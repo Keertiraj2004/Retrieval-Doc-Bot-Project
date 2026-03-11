@@ -29,7 +29,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 
 ## 🧠 Tech Stack
 
-| Technology     | Purpose                     |
+| Technology    | Purpose                     |
 |---------------|-----------------------------|
 | Python        | Backend Logic               |
 | Streamlit     | Web Interface               |
