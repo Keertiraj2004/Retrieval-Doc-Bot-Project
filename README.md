@@ -24,7 +24,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 - ⬇ Download full chat history
 - 🗑 Clear chat functionality
 - ⚙ Adjustable model parameters (Temperature & Max Tokens)
-
+  
 ---
 
 ## 🧠 Tech Stack
