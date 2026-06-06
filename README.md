@@ -2,9 +2,9 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
---- 
+---  
 
-## 🚀 Project Overview  
+## 🚀 Project Overview.   
 
 RetrievalDocBot allows users to upload multiple PDF files and ask context-aware questions.
 The system retrieves relevant document chunks using vector similarity search and generates accurate answers strictly based on the uploaded content.
