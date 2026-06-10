@@ -2,7 +2,7 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables intelligent question answering from uploaded PDF documents using semantic search and large language models.
 
----  
+---
 
 ## 🚀 Project Overview    
 
