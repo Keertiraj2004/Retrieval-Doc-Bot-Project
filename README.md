@@ -15,7 +15,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 
 ## ✨ Features
 
-- 📂 Upload up to 10 PDF documents
+- 📂 Upload up to 10 PDF documents 
 - 🔍 Semantic search using FAISS
 - 🤖 Context-based answer generation using OpenAI LLM
 - 📊 Document statistics (Total pages, files, characters)
