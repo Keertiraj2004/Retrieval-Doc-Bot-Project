@@ -11,7 +11,7 @@ The system retrieves relevant document chunks using vector similarity search and
 
 This project demonstrates the implementation of an end-to-end RAG pipeline using LangChain, OpenAI, and FAISS.
 
----
+--- 
 
 ## ✨ Features
 
