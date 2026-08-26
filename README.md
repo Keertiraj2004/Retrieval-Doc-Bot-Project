@@ -13,7 +13,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 
 --- 
 
-## ✨ Features
+## ✨ Features 
 
 - 📂 Upload up to 10 PDF documents 
 - 🔍 Semantic search using FAISS
