@@ -40,7 +40,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
 
 ---
 
-## 🔄 How It Works
+## 🔄 How It Works 
 
 1. User uploads PDF documents.
 2. Text is extracted using pdfplumber.
