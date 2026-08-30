@@ -27,7 +27,7 @@ This project demonstrates the implementation of an end-to-end RAG pipeline using
   
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack 
 
 | Technology    | Purpose                     |
 |---------------|-----------------------------|
